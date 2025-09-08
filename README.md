@@ -1,8 +1,8 @@
-# Nome da entidade
+# Serviços Municipalizados de Alcobaça
 
-- URL: [Link em texto da URL da entidade](URL do site da entidade)
-- Proprietário: Inserir proprietário
-- Candidatura a:  Inserir Selo Bronze, Selo Prata ou Selo Ouro
+- URL: ([https://www.smalcobaca.pt/](https://www.smalcobaca.pt/))
+- Proprietário: Serviços Municipalizados de Alcobaça
+- Candidatura a: Selo Prata
   
 ## Consulte aqui: [Relatório da Auditoria da X (Mês ano)](https://unidade-acesso.github.io/report_00X/relatorio_report_00X.html)
 
