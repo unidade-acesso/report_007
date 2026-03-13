@@ -1,7 +1,7 @@
-# Serviços Municipalizados de Alcobaça
+# Vila do Bispo
 
-- URL: ([https://www.smalcobaca.pt/](https://www.smalcobaca.pt/))
-- Proprietário: Serviços Municipalizados de Alcobaça
+- URL: ([https://www.cm-viladobispo.pt/))
+- Proprietário: Câmara Municipal de Vila do Bispo
 - Candidatura a: Selo Prata
   
 ## Consulte aqui: [Relatório da Auditoria da X (Mês ano)](https://unidade-acesso.github.io/report_00X/relatorio_report_00X.html)
