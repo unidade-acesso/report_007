@@ -1,6 +1,6 @@
 # Vila do Bispo
 
-- URL: ([https://www.cm-viladobispo.pt/))
+- URL: https://www.cm-viladobispo.pt/
 - Proprietário: Câmara Municipal de Vila do Bispo
 - Candidatura a: Selo Prata
   
