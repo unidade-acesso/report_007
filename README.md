@@ -1,24 +1,24 @@
 ---
-website: "Nome_do_sítio_Web"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "https://dominio_sitio_web.pt"   # Entre as aspas escreve o domínio do website
-a11y_statement: "https://dominio_sitio_web.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
-owner: "Nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
+website: "Vila do Bispo (sítio Web Institucional)"          # Entre as aspas escreve o nome do website
+date: "26/03/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+uri: "https://www.cm-viladobispo.pt"   # Entre as aspas escreve o domínio do website
+a11y_statement: "https://www.cm-viladobispo.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+owner: "Câmara Municipal de Vila do Bispo"         # Entre as aspas escrever o nome do owner do website
 seal: "_Ouro_"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# {{ page.website }}
+# Vila do Bispo (sítio Web Institucional)
 
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
+- Data de criação: 26/03/2026
+- URL: https://www.cm-viladobispo.pt
+- Propriedade: Câmara Municipal de Vila do Bispo
+- Candidatura: Ouro
 
 ## Relatório de Auditoria
 
-<p>O presente relatório resultou da auditoria da informação publicada na <a href="{{ page.a11y_statement }}">Declaração de Acessibilidade e Usabilidade</a>.</p>
+<p>O presente relatório resultou da auditoria da informação publicada na <a href="https://www.cm-viladobispo.pt/acessibilidade">Declaração de Acessibilidade e Usabilidade</a>.</p>
 
-Consulte aqui a última atualização: [Relatório {{ page.website }}](report.html)
+Consulte aqui a última atualização: [Relatório Vila do Bispo (sítio Web Institucional)](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
