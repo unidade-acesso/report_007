@@ -4,7 +4,7 @@ date: "26/03/2026"                    # Entre as aspas escreve a data de criaç�
 uri: "https://www.cm-viladobispo.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.cm-viladobispo.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Câmara Municipal de Vila do Bispo"         # Entre as aspas escrever o nome do owner do website
-seal: "_Ouro_"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
 # Vila do Bispo (sítio Web Institucional)
