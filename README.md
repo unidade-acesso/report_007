@@ -12,7 +12,7 @@ seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou
 - Data de criação: 26/03/2026
 - URL: https://www.cm-viladobispo.pt
 - Propriedade: Câmara Municipal de Vila do Bispo
-- Candidatura: Ouro
+- Candidatura: Prata
 
 ## Relatório de Auditoria
 
