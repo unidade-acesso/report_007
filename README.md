@@ -5,6 +5,8 @@ uri: "https://www.cm-viladobispo.pt"   # Entre as aspas escreve o domínio do we
 a11y_statement: "https://www.cm-viladobispo.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Câmara Municipal de Vila do Bispo"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+validity: "20/07/2026 a 20/07/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
 # Vila do Bispo (sítio Web Institucional)
