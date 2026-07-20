@@ -23,7 +23,7 @@ Consulte aqui a última atualização: [Relatório Vila do Bispo (sítio Web Ins
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório {{ page.website }}</a></li>
+    <li><a href="20072026_report.html">(20/07/2026). Relatório {{ page.website }}</a></li>
   </ul>
 </details>
 
